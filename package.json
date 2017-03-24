@@ -1,0 +1,22 @@
+{
+  "name": "corescript-typescript",
+  "version": "1.0.0",
+  "description": "The d.ts definitions and typescript files for MV corescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niokasgami/corescript-typescript.git"
+  },
+  "keywords": [
+    "rpgMakerMV"
+  ],
+  "author": "Nio Kasgami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niokasgami/corescript-typescript/issues"
+  },
+  "homepage": "https://github.com/niokasgami/corescript-typescript#readme"
+}
